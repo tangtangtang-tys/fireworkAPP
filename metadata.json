@@ -1,0 +1,6 @@
+{
+  "name": "IPC OTA 固件升级演示",
+  "description": "高保真智能摄像机固件OTA升级流程移动端演示，包含进度跟踪、确认弹窗及自动升级设置。",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
